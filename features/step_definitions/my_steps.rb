@@ -15,3 +15,18 @@ Then(/^se imprime en pantalla letra "([^"]*)"$/) do |letra|
   last_response.body.should =~ /(#{letra})/m
 end
 
+
+When(/^ingreso letra "(.*?)" y clickeo "(.*?)"$/) do |letra, boton|
+  fill_in(:letra, :with => letra)
+  click_button(boton)
+  
+end
+
+Then(/^muestra si la letra "(.*?)" existe e imprime "(.*?)"$/) do |letra, mensaje|
+
+	last_response.body.should =~ /(#{letra})/m
+	last_response.body.should =~ /(#{mensaje})/m
+end
+
+
+

@@ -11,3 +11,9 @@ Scenario: Ingresar letra A y enviar
   Given ingreso al main del sitio
   When ingreso letra "A"
   Then se imprime en pantalla letra "A"
+
+
+Scenario: validacion letra
+	Given ingreso al main del sitio
+	When ingreso letra "V" y clickeo "ingresar"
+	Then muestra si la letra "V" existe e imprime "pertenece"  
