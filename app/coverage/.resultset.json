@@ -1,49 +1,53 @@
 {
   "Cucumber Features": {
     "coverage": {
-      "/vagrant/app/app.rb": [
-        1,
-        null,
+      "/home/vagrant/csd/mof/app/app.rb": [
         1,
         null,
         1,
         1,
         null,
         null,
+        null
+      ],
+      "/home/vagrant/csd/mof/app/features/step_definitions/hello_steps.rb": [
         1,
+        0,
+        null,
+        null,
+        1,
+        0,
+        null
+      ],
+      "/home/vagrant/csd/mof/app/features/step_definitions/mof_steps.rb": [
+        1,
+        1,
+        null,
+        null,
         1,
         1,
         null,
         null
       ],
-      "/vagrant/app/features/step_definitions/hello_steps.rb": [
+      "/home/vagrant/csd/mof/app/features/step_definitions/suma_steps.rb": [
         1,
-        1,
+        0,
         null,
         null,
         1,
-        1,
-        null
-      ],
-      "/vagrant/app/features/step_definitions/suma_steps.rb": [
-        1,
-        1,
+        0,
+        0,
         null,
-        null,
-        1,
-        1,
-        1,
-        null,
-        1,
+        0,
         null,
         null,
         null,
         1,
-        1,
+        0,
         null,
         null
       ]
     },
-    "timestamp": 1494425886
+    "timestamp": 1494417998
   }
 }
