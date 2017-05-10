@@ -15,3 +15,8 @@ Scenario: Ingresar letra A y enviar
 Scenario: Configura palabra oculta
   Given ingreso al main del sitio
   Then se imprime la palabra curso con primera letra visible
+
+Scenario: validacion letra
+	Given ingreso al main del sitio
+	When ingreso letra "V" y clickeo "ingresar"
+	Then muestra si la letra "V" existe e imprime "pertenece"  

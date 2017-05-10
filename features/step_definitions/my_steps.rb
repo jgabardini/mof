@@ -19,5 +19,15 @@ Then(/^se imprime la palabra curso con primera letra visible$/) do
   last_response.body.should =~ /C _ _ _ _/m
 end
 
+When(/^ingreso letra "(.*?)" y clickeo "(.*?)"$/) do |letra, boton|
+  fill_in(:letra, :with => letra)
+  click_button(boton)
+end
+
+Then(/^muestra si la letra "(.*?)" existe e imprime "(.*?)"$/) do |letra, mensaje|
+	last_response.body.should =~ /(#{letra})/m
+	last_response.body.should =~ /(#{mensaje})/m
+end
+
 
 
