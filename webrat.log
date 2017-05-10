@@ -1,0 +1,84 @@
+# Logfile created on 2017-05-09 11:55:57 -0700 by logger.rb/53141
+D, [2017-05-09T11:55:57.319886 #17063] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2017-05-09T11:57:16.678980 #17073] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2017-05-09T11:59:20.245165 #17083] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2017-05-09T12:01:38.880355 #17093] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2017-05-09T12:02:46.391790 #17103] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2017-05-09T12:27:17.603943 #17231] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2017-05-09T12:27:39.977218 #17241] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2017-05-09T12:28:12.556291 #17251] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2017-05-09T12:31:22.381674 #17291] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2017-05-09T12:40:07.834746 #17313] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2017-05-09T12:41:01.123533 #17331] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2017-05-09T12:42:35.236117 #17341] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2017-05-09T12:42:35.267162 #17341] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2017-05-09T12:45:11.421642 #17351] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2017-05-09T12:45:11.448547 #17351] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2017-05-09T12:46:49.753359 #17361] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2017-05-09T12:46:49.784436 #17361] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2017-05-09T12:47:52.556531 #17371] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2017-05-09T12:47:52.588619 #17371] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2017-05-09T12:48:21.494692 #17381] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2017-05-09T12:48:21.521044 #17381] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2017-05-09T12:48:21.529843 #17381] DEBUG -- : REQUESTING PAGE: GET /sumar with {"a"=>"a", "b"=>"b"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2017-05-09T12:50:34.801728 #17391] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2017-05-09T12:50:34.828529 #17391] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2017-05-09T12:50:34.835376 #17391] DEBUG -- : REQUESTING PAGE: GET /sumar with {"a"=>"a", "b"=>"b"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2017-05-09T12:53:00.297146 #17401] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2017-05-09T12:53:00.325150 #17401] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2017-05-09T12:53:00.335089 #17401] DEBUG -- : REQUESTING PAGE: GET /sumar with {"a"=>"a", "b"=>"b"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2017-05-09T12:54:06.457340 #17411] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2017-05-09T12:54:06.488859 #17411] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2017-05-09T12:54:06.494580 #17411] DEBUG -- : REQUESTING PAGE: GET /sumar with {"a"=>"a", "b"=>"b"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2017-05-09T12:55:28.694370 #17421] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2017-05-09T12:55:28.724033 #17421] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2017-05-09T12:55:28.731305 #17421] DEBUG -- : REQUESTING PAGE: GET /sumar with {"a"=>"a", "b"=>"b"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2017-05-09T12:59:54.841521 #17479] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2017-05-09T12:59:54.874528 #17479] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2017-05-09T12:59:54.881016 #17479] DEBUG -- : REQUESTING PAGE: POST /sumar with {"a"=>"a", "b"=>"b"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2017-05-09T13:02:29.840118 #17489] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2017-05-09T13:02:29.871666 #17489] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2017-05-09T13:02:29.879761 #17489] DEBUG -- : REQUESTING PAGE: POST /sumar with {"a"=>"a", "b"=>"b"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2017-05-09T13:03:14.470574 #17499] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2017-05-09T13:03:14.501929 #17499] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2017-05-09T13:03:14.508373 #17499] DEBUG -- : REQUESTING PAGE: POST /sumar with {"a"=>"a", "b"=>"b"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2017-05-09T13:03:29.346530 #17509] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2017-05-09T13:03:29.377456 #17509] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2017-05-09T13:03:29.385291 #17509] DEBUG -- : REQUESTING PAGE: POST /sumar with {"a"=>"a", "b"=>"b"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2017-05-09T13:03:46.736207 #17519] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2017-05-09T13:03:46.764162 #17519] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2017-05-09T13:03:46.771042 #17519] DEBUG -- : REQUESTING PAGE: POST /sumar with {"a"=>"a", "b"=>"b"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2017-05-09T13:04:22.617809 #17529] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2017-05-09T13:04:22.644788 #17529] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2017-05-09T13:04:22.649935 #17529] DEBUG -- : REQUESTING PAGE: POST /sumar with {"a"=>"a", "b"=>"b"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2017-05-09T13:05:34.603737 #17539] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2017-05-09T13:05:34.634773 #17539] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2017-05-09T13:05:34.641288 #17539] DEBUG -- : REQUESTING PAGE: POST /sumar with {"a"=>"a", "b"=>"b"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2017-05-09T13:06:48.212958 #17578] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2017-05-09T13:06:48.243222 #17578] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2017-05-09T13:06:48.248530 #17578] DEBUG -- : REQUESTING PAGE: POST /sumar with {"a"=>"a", "b"=>"b"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2017-05-09T13:07:56.647813 #17588] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2017-05-09T13:07:56.678714 #17588] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2017-05-09T13:08:28.609634 #17598] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2017-05-09T13:08:28.640133 #17598] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2017-05-09T13:08:28.646705 #17598] DEBUG -- : REQUESTING PAGE: POST /sumar with {"a"=>"1", "b"=>"2"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2017-05-09T13:10:28.372550 #17608] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2017-05-09T13:10:28.403463 #17608] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2017-05-09T13:10:28.410897 #17608] DEBUG -- : REQUESTING PAGE: POST /sumar with {"a"=>"1", "b"=>"2"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2017-05-09T13:10:56.990487 #17618] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2017-05-09T13:10:57.017343 #17618] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2017-05-09T13:10:57.023773 #17618] DEBUG -- : REQUESTING PAGE: POST /sumar with {"a"=>"1", "b"=>"2"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2017-05-09T13:11:56.817490 #17652] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2017-05-09T13:11:56.846164 #17652] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2017-05-09T13:11:56.852606 #17652] DEBUG -- : REQUESTING PAGE: POST /sumar with {"a"=>"1", "b"=>"2"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2017-05-10T06:49:35.178863 #9936] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2017-05-10T06:49:35.282994 #9936] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2017-05-10T06:50:01.420731 #9946] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2017-05-10T06:50:01.441421 #9946] DEBUG -- : REQUESTING PAGE: GET /suma with {} and HTTP headers {}
+D, [2017-05-10T06:50:01.477050 #9946] DEBUG -- : REQUESTING PAGE: POST /sumar with {"a"=>"1", "b"=>"2"} and HTTP headers {"HTTP_REFERER"=>"/suma"}
+D, [2017-05-10T06:50:13.098041 #9956] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2017-05-10T06:50:13.117391 #9956] DEBUG -- : REQUESTING PAGE: GET /suma with {} and HTTP headers {}
+D, [2017-05-10T06:50:13.126239 #9956] DEBUG -- : REQUESTING PAGE: POST /sumar with {"a"=>"1", "b"=>"2"} and HTTP headers {"HTTP_REFERER"=>"/suma"}
+D, [2017-05-10T07:18:06.580662 #9969] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2017-05-10T07:18:06.601393 #9969] DEBUG -- : REQUESTING PAGE: GET /suma with {} and HTTP headers {}
+D, [2017-05-10T07:18:06.609968 #9969] DEBUG -- : REQUESTING PAGE: POST /sumar with {"a"=>"1", "b"=>"2"} and HTTP headers {"HTTP_REFERER"=>"/suma"}
